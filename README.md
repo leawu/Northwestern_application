@@ -4,7 +4,7 @@
 - I have 2 years of experience in SQL. I read/write database and concat data from multiple data sources at various scales as a daily basis during my role as a Data Scientist.
 - I can proficiently maintain repositories and branches with Git and setup best practices for the team.
 
-This repository demonstrates part of the relevant code I've developed. The following section introduces the files in this repository:
+This repository demonstrates part of the relevant code I've independently developed. The following section introduces the files in this repository:
 ### cloudStorageTool.py
 The tools I built for the team to better leverage Google Cloud Storage.
 
@@ -12,4 +12,7 @@ The tools I built for the team to better leverage Google Cloud Storage.
 To accelerate the efficiency of web crawlers, I developed a threading tool for the team.
 
 ### optimizationAlgorithm.py
-Part of the optimization clustering algorithm I developed support business development decisions.
+Part of the optimization clustering algorithm I developed to support business development decisions.
+
+### foodpandaCrawler.py
+Data crawler with multi-threading.
